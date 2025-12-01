@@ -222,14 +222,6 @@ src/
 
 ---
 
-## Optional Enhancements
-- JWT authentication  
-- Validation with Joi or Zod  
-- Jest tests  
-- Production Dockerfile
-
----
-
 ## Final Notes
 This project was created for the Jitterbit technical challenge, focusing on clean architecture, clear documentation, and consistent data handling.
 
