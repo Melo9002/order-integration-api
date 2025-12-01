@@ -233,3 +233,11 @@ src/
 ## Final Notes
 This project was created for the Jitterbit technical challenge, focusing on clean architecture, clear documentation, and consistent data handling.
 
+## Swagger Documentation
+
+Available at:
+http://localhost:3000/api-docs
+
+This interactive documentation allows testing all endpoints directly from the browser.
+
+
